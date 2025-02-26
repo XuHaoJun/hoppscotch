@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "新增",
+    "add_arg": "新增参数",
     "autoscroll": "自动滚动",
     "cancel": "取消",
     "choose_file": "选择文件",

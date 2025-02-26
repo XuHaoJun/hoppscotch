@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Hozzáadás",
+    "add_arg": "Add Argument",
     "autoscroll": "Automatikus görgetés",
     "cancel": "Mégse",
     "choose_file": "Válasszon egy fájlt",

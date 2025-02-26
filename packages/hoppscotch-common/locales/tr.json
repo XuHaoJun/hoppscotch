@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Ekle",
+    "add_arg": "Add Argument",
     "autoscroll": "Oto-Kaydırma",
     "cancel": "İptal",
     "choose_file": "Bir dosya seçin",

@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Add",
+    "add_arg": "Add Argument",
     "autoscroll": "自動捲動",
     "cancel": "取消",
     "choose_file": "選擇一個檔案",

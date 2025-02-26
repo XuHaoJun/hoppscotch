@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Add",
+    "add_arg": "Add Argument",
     "autoscroll": "Tự động cuộn",
     "cancel": "Hủy",
     "choose_file": "Chọn tệp",

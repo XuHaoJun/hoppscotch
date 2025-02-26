@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Add",
+    "add_arg": "Afegir Argument",
     "autoscroll": "Autoscroll",
     "cancel": "Cancel·lar",
     "choose_file": "Triar un fitxer",

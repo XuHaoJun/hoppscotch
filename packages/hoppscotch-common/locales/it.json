@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Add",
+    "add_arg": "Add Argument",
     "autoscroll": "Autoscroll",
     "cancel": "Annulla",
     "choose_file": "Scegli un file",

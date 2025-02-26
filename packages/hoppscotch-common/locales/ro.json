@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Add",
+    "add_arg": "Add Argument",
     "autoscroll": "Derulare automată",
     "cancel": "Anulare",
     "choose_file": "Alegeți un fișier",

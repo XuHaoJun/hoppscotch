@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Tilføj",
+    "add_arg": "Tilføj argument",
     "autoscroll": "Automatisk rulning",
     "cancel": "Annuller",
     "choose_file": "Vælg en fil",

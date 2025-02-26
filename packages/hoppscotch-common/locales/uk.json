@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Add",
+    "add_arg": "Add Argument",
     "autoscroll": "Автопрокручування",
     "cancel": "Скасувати",
     "choose_file": "Виберіть файл",

@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Hinzufügen",
+    "add_arg": "Argument hinzufügen",
     "autoscroll": "Automatisch Scrollen",
     "cancel": "Abbrechen",
     "choose_file": "Datei auswählen",

@@ -1,6 +1,7 @@
 {
   "action": {
     "add": "Add",
+    "add_arg": "Přidat argument",
     "autoscroll": "Autoscroll",
     "cancel": "Zrušit",
     "choose_file": "Vyberte soubor",
